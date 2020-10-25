@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.229082">
+<testcase classname="MRA-567 Tagged Hooks" name="This is First test" time="0.227168">
+<system-out><![CDATA[Given this is the first step................................................passed
+When this is the second step................................................passed
+Then this is the third step.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="MRA-567 Tagged Hooks" name="This is Second test" time="0.001102">
+<system-out><![CDATA[Given this is the first step................................................passed
+When this is the second step................................................passed
+Then this is the third step.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="MRA-567 Tagged Hooks" name="This is Third test" time="0.000812">
+<system-out><![CDATA[Given this is the first step................................................passed
+When this is the second step................................................passed
+Then this is the third step.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
